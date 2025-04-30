@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Ahmed Tawfik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=Cyan&size=25&center=true&vCenter=true&width=600&height=100&duration=3000&lines=Ahmed+Mohamed+Tawfik;Computer+Science+Student;Frontend+Developer;Problem+Solver;Always+Learning"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00B7EB&size=25&center=true&vCenter=true&width=600&height=100&duration=3000&lines=Ahmed+Mohamed+Tawfik;2nd+Year+Computer+Science+Student;Frontend+Developer;Problem+Solver;Always+Learning"></a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Social Media
